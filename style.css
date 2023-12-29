@@ -84,7 +84,7 @@ hr {
 @media (prefers-color-scheme: dark) {
   body {
     background-color: var(--black);
-    color: var(--blue2);
+    color: var(--antiquewhite);
   }
   hr {
     color: var(--blue2);
